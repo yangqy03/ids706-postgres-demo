@@ -4,3 +4,9 @@ The goal for this week is run PostgreSQL in Docker, auto-seed a table, query wit
 
 The output of SQL query code is:
 
+![output 1](screenshot_1.png)
+
+![output 1](screenshot_2.png)
+
+![output 1](screenshot_3.png)
+
