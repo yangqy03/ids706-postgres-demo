@@ -57,3 +57,6 @@ The output of SQL query code is:
 
 ![output 1](screenshot_3.png)
 
+# Below is the data visualization result
+
+![Visualization for restaurants](data_visualization_image.png)
