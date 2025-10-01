@@ -1,4 +1,4 @@
-# Week 6 - Demo
+# Week 6 assignment
 
 The goal for this week is run PostgreSQL in Docker, auto-seed a table, query with `psql`, use the VS Code PostgreSQL Explorer, and run a short Python script.
 
